@@ -12,8 +12,7 @@ Showcase practical DevSecOps projects focusing on:
 ### 🟢 Beginner
 Projects focused on foundational concepts and core skills.
 
-🔹 **AWS IAM Security & Access Control**  
-Implementation of least privilege access control in AWS using IAM, with policy validation and controlled access to EC2.
+🔹 **AWS IAM Security & Access Control (Least Privilege Implementation)**  
 
 ---
 
