@@ -9,6 +9,24 @@ Showcase practical DevSecOps projects focusing on:
 - Threat mitigation
 
 ## Featured Projects
+### 🟢 Beginner
+Projects focused on foundational concepts and core skills.
+
+- 🔹 **VPC Network Segmentation (AWS)**  
+  Basic cloud network setup with public/private subnets and internet gateway.
+
+---
+
+### 🟡 Intermediate
+Projects involving integration between tools and multiple concepts.
+
+(coming soon)
+
+---
+
+### 🔴 Advanced
+Projects focused on DevSecOps practices, automation, and security integration.
+
 (coming soon)
 
 ## Contact
