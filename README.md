@@ -12,8 +12,8 @@ Showcase practical DevSecOps projects focusing on:
 ### 🟢 Beginner
 Projects focused on foundational concepts and core skills.
 
-- 🔹 **VPC Network Segmentation (AWS)**  
-  Basic cloud network setup with public/private subnets and internet gateway.
+🔹 **AWS IAM Security & Access Control**  
+Implementation of least privilege access control in AWS using IAM, with policy validation and controlled access to EC2.
 
 ---
 
