@@ -12,7 +12,7 @@ Showcase practical DevSecOps projects focusing on:
 ### 🟢 Beginner
 Projects focused on foundational concepts and core skills.
 
-🔹 [AWS Secure VPC Bastion](https://github.com/sigrid-fr/aws-secure-vpc-bastion)
+🔹 [Secure VPC with Bastion Host on AWS](https://github.com/sigrid-fr/aws-secure-vpc-bastion)
 
 ---
 
