@@ -12,8 +12,8 @@ Showcase practical DevSecOps projects focusing on:
 ### 🟢 Beginner
 Projects focused on foundational concepts and core skills.
 
-🔹 [AWS IAM Least Privilege for EC2](https://github.com/sigrid-fr/aws-iam-least-privilege-ec2#aws-iam-least-privilege-for-ec2)
-🔹 [Secure VPC with Bastion Host on AWS](https://github.com/sigrid-fr/aws-secure-vpc-bastion)
+🔹[AWS IAM Least Privilege for EC2](https://github.com/sigrid-fr/aws-iam-least-privilege-ec2#aws-iam-least-privilege-for-ec2)  
+🔹[Secure VPC with Bastion Host on AWS](https://github.com/sigrid-fr/aws-secure-vpc-bastion)  
 
 ---
 
